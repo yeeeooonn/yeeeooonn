@@ -4,7 +4,7 @@
 
 ### 👋Hi I'm Yeeeooonn.
 
-#### My major is Softwart. I'm studying web development.
+#### My major is Software. I'm studying web development.
 
 <br>
 
