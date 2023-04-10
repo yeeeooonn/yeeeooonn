@@ -39,10 +39,16 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeeeooonn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeeeooonn&show_icons=true&theme=dark)
+
+### Programming Solving.
+
 [![Solved.ac
     Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeeeooonn)](https://solved.ac/yeeeooonn/)
 
 ### 🥴Follow Me.
+
+<a href = "https://yeeeooonn.tistory.com/">![tistory](https://img.shields.io/badge/tistory-000000.svg?&style=for-the-badge&logo=tistory&logoColor=white)</a>
+<a href = "https://instagram.com/yeeeooonn/">![instagram](https://img.shields.io/badge/instagram-E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)</a>
 
 </div>
 
