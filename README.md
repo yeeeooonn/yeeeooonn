@@ -35,15 +35,21 @@
 
 ![spring](https://img.shields.io/badge/spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white)
 
-### GitHub Stats.
+<br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeeeooonn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+### ⭐GitHub Stats.
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yeeeooonn&show_icons=true&theme=dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yeeeooonn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### Programming Solving.
+<br>
+
+### 🐣Programming Solving.
 
 [![Solved.ac
     Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yeeeooonn)](https://solved.ac/yeeeooonn/)
+
+<br>
 
 ### 🥴Follow Me.
 
